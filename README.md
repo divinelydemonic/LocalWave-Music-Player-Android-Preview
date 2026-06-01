@@ -1,4 +1,4 @@
-# 🎵 LocalWave (Preview)
+# 🎵 LocalWave
 
 A modern offline music player built with **Kotlin**, **Jetpack Compose**, and **Media3** that allows users to browse, play, and manage audio files stored locally on their Android devices.
 
@@ -238,34 +238,47 @@ VM --> UI
 
 # 📸 Screenshots / Demo
 
-## Home Screen
+## Permission Dialogs
 
-```text
-[ Add Screenshot Here ]
-```
+<p align="center">
+  <img src="/images/Storage_Permission.png" height=500>
+  <img src="/images/Notification_Pemission.png" height=500>
+</p>
 
 ## Music Player
 
-```text
-[ Add Screenshot Here ]
-```
-
-## Favorites Screen
-
-```text
-[ Add Screenshot Here ]
-```
+https://github.com/user-attachments/assets/c694ae9a-c4a8-4675-9e28-d2d917f6042d
 
 ## Dynamic Theme Example
 
-```text
-[ Add Screenshot Here ]
-```
+https://github.com/user-attachments/assets/8786e13f-97a3-4342-9390-03d488017134
+
+## Favorites Screen
+
+<p align="center">
+  <img src="/images/Favourite_Screen_Light_theme.png" height=500>
+  <img src="/images/Favourite_Screen_Dark_theme.png" height=500>
+</p>
+
+## Repeat Mode
+
+https://github.com/user-attachments/assets/485c03a0-2330-4c93-baa8-7129e1aab82a
+
+## Favourite Playlist
+
+https://github.com/user-attachments/assets/2f1ae229-eb8a-4404-9d48-15f1c1104fb3
+
+## Notification Player
+
+https://github.com/user-attachments/assets/03cc99dc-db70-451d-a276-f24be1435cd5
 
 ## Demo Video
 
 ```text
-https://youtu.be/vhtw_aiRCjo?si=DmRlnsNZOX3WFeJB
+
+YouTube- https://youtu.be/3Trru19tWdI
+X - https://x.com/kushalreya/status/2061441387904786607?s=20
+
 ```
 
 ---
