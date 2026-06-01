@@ -1,4 +1,4 @@
-# 🎵 LocalWave
+# 🎵 LocalWave (Preview)
 
 A modern offline music player built with **Kotlin**, **Jetpack Compose**, and **Media3** that allows users to browse, play, and manage audio files stored locally on their Android devices.
 
