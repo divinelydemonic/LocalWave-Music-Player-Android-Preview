@@ -1,8 +1,26 @@
-# 🎵 LocalWave
+# 🎵 LocalWave - Local Music Player
 
 A modern offline music player built with **Kotlin**, **Jetpack Compose**, and **Media3** that allows users to browse, play, and manage audio files stored locally on their Android devices.
 
-LocalWave focuses on providing a beautiful, responsive, and distraction-free music listening experience with dynamic album-based theming, favorites management, playback controls, and persistent playback state.
+LocalWave focuses on providing a beautiful, distraction-free music listening experience with dynamic album-based theming, light and dark themes, favorites management, playback controls, notification controls, and persistent playback state.
+
+---
+
+## 📲 Available on Google Play
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=kr.android.musicplayer">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="220">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=kr.android.musicplayer">
+    Download LocalWave on Google Play
+  </a>
+</p>
+
+**Current Version:** `1.0.1`
 
 ---
 
@@ -14,10 +32,12 @@ LocalWave focuses on providing a beautiful, responsive, and distraction-free mus
 - [🏗 Architecture](#-architecture)
 - [🔄 App Flow](#-app-flow)
 - [📸 Screenshots / Demo](#-screenshots--demo)
-- [🌐 API Integration](#-api-integration)
+- [📱 Android APIs & Permissions](#-android-apis--permissions)
 - [📂 Project Structure](#-project-structure)
 - [🎯 Use Cases](#-use-cases)
 - [🚧 Future Improvements](#-future-improvements)
+- [🔒 Privacy](#-privacy)
+- [📌 Project Status](#-project-status)
 - [🤝 Freelancing & Portfolio](#-freelancing--portfolio)
 - [📄 License](#-license)
 
@@ -68,6 +88,12 @@ LocalWave solves this by providing:
 - Album-based theming
 - Animated vinyl record player
 
+### 🌗 Light & Dark Themes
+
+- Dedicated light and dark themes
+- Separate theme styling for each appearance
+- Dynamic album-based colors within the player experience
+
 ### 🔄 Playback Modes
 
 - Shuffle Mode
@@ -88,17 +114,50 @@ LocalWave solves this by providing:
 - Last played song restoration
 - Favorite songs persistence
 
-### 🔔 Notifications
+### 🔔 Notifications & Background Playback
 
 - Playback notification
 - Play/Pause actions
 - Next/Previous controls
+- Background playback
+- Media session integration
+- Notification media controls
 
 ### 🚀 Performance
 
 - Local storage scanning
 - Efficient media loading
 - Reactive UI updates
+
+---
+
+# 💡 Why LocalWave?
+
+LocalWave is designed for users who already have their own music library and want a focused listening experience without relying on streaming services.
+
+### 🌐 Completely Offline
+
+Play music stored on your device without requiring an internet connection or music streaming service.
+
+### 🎨 Dynamic Music Experience
+
+Album artwork influences the player's color theme, creating a visual experience that adapts to the currently playing song.
+
+### ❤️ Favorites
+
+Save songs you love and access them quickly from the dedicated Favorites experience.
+
+### 🔔 Background Playback
+
+Continue listening while using other apps with Android notification and media controls.
+
+### 🌗 Light & Dark Themes
+
+Choose the appearance that suits your environment with dedicated light and dark themes.
+
+### 🔒 Privacy-Focused
+
+LocalWave does not require an account or external web APIs for core music playback.
 
 ---
 
@@ -283,7 +342,7 @@ X - https://x.com/kushalreya/status/2061441387904786607?s=20
 
 ---
 
-# 🌐 API Integration
+# 📱 Android APIs & Permissions
 
 ## External APIs
 
@@ -312,6 +371,15 @@ Used for:
 Used for:
 
 - Dynamic color generation from album artwork
+
+### Android Media3
+
+Used for:
+
+- Audio playback
+- Media sessions
+- Background playback
+- Notification media controls
 
 ## Error Handling
 
@@ -437,13 +505,32 @@ Manage and play large local music libraries.
 
 ---
 
+# 🔒 Privacy
+
+LocalWave is designed as an offline music player.
+
+- No account required
+- No external music streaming
+- No external web APIs
+- No advertising
+- No API keys required
+- Music playback is performed from files stored on the user's device
+- No cloud service is required for core functionality
+
+Read the full Privacy Policy:
+
+https://sites.google.com/view/localwave-privacy/home
+
+---
+
 # 🚧 Future Improvements
 
 Planned enhancements include:
 
+- Responsive UI improvements for smaller-screen devices
+- Search functionality
 - Playlist creation
 - Playlist management
-- Search functionality
 - Music sorting options
 - Equalizer support
 - Lyrics support
@@ -460,9 +547,27 @@ Planned enhancements include:
 
 ---
 
+# 📌 Project Status
+
+**Current Version:** `1.0.1`
+
+**Status:** 🟢 Published on Google Play
+
+LocalWave is actively maintained and publicly available on Google Play.
+
+The current release provides an offline music playback experience with dynamic album-based theming, favorites, light and dark themes, background playback, and notification controls.
+
+The next development cycle will focus on improving responsiveness on smaller-screen devices, production bug fixes, playback reliability, and overall user experience.
+
+**Google Play:**
+
+https://play.google.com/store/apps/details?id=kr.android.musicplayer
+
+---
+
 # 🤝 Freelancing & Portfolio
 
-This project is part of my personal Android development portfolio.
+LocalWave is part of my personal Android development portfolio and demonstrates the process of taking an Android application from development through testing and production deployment on Google Play.
 
 It demonstrates:
 
