@@ -1,5 +1,7 @@
 # 🎵 LocalWave - Local Music Player
 
+[![Google Play Acquisitions](https://img.shields.io/badge/Google_Play-Downloads_1K%2B-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=kr.android.musicplayer)
+
 A modern offline music player built with **Kotlin**, **Jetpack Compose**, and **Media3** that allows users to browse, play, and manage audio files stored locally on their Android devices.
 
 LocalWave focuses on providing a beautiful, distraction-free music listening experience with dynamic album-based theming, light and dark themes, favorites management, playback controls, notification controls, and persistent playback state.
