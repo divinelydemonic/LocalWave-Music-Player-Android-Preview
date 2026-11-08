@@ -308,13 +308,11 @@ VM --> UI
 
 ## Music Player
 
-https://github.com/user-attachments/assets/c694ae9a-c4a8-4675-9e28-d2d917f6042d
-
-https://private-user-images.githubusercontent.com/91070360/600964995-9642f61c-86c3-44ad-a158-e6b438fe6570.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODczNzE5MzEsIm5iZiI6MTc4NzM3MTYzMSwicGF0aCI6Ii85MTA3MDM2MC82MDA5NjQ5OTUtOTY0MmY2MWMtODZjMy00NGFkLWExNTgtZTZiNDM4ZmU2NTcwLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODIyVDA0MDcxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUwOGNkMTJiMmQ5ZWFkY2U5NTNlYTNhNWYzYzllNTY3YzBmZWY0ZmQxZjRiM2NhMWQ3ZWYyZWM1YzlkZTJiZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.0Bpx9WMyZ6MYZAyUR60pkVHzJZqLSaPXagszw1xLlqk
+https://github.com/user-attachments/assets/a0be3022-ec73-4f26-b7f5-611c8944966d
 
 ## Dynamic Theme Example
 
-https://github.com/user-attachments/assets/8786e13f-97a3-4342-9390-03d488017134
+https://github.com/user-attachments/assets/c9ff230a-7005-438c-97ab-563354155822
 
 ## Favorites Screen
 
@@ -323,17 +321,21 @@ https://github.com/user-attachments/assets/8786e13f-97a3-4342-9390-03d488017134
   <img src="/images/Favourite_Screen_Dark_theme.png" height=500>
 </p>
 
-## Repeat Mode
-
-https://github.com/user-attachments/assets/485c03a0-2330-4c93-baa8-7129e1aab82a
-
 ## Favourite Playlist
 
-https://github.com/user-attachments/assets/2f1ae229-eb8a-4404-9d48-15f1c1104fb3
+https://github.com/user-attachments/assets/9e43d210-8053-4a78-a85a-8808d28bc025
+
+## Repeat Mode
+
+https://github.com/user-attachments/assets/9fe060ad-6e9c-45a1-8653-c1ae6039b077
+
+## Play, Pause, Skip, Previous, Shuffle functionalities
+
+https://github.com/user-attachments/assets/995dd7b3-eabc-4d41-8ad3-3476d10bc402
 
 ## Notification Player
 
-https://github.com/user-attachments/assets/03cc99dc-db70-451d-a276-f24be1435cd5
+https://github.com/user-attachments/assets/9805def5-1d7c-439f-b9ba-50d1895cfd66
 
 ## Demo Video
 
